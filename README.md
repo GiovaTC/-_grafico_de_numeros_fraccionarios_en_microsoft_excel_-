@@ -1,7 +1,9 @@
 # -_grafico_de_numeros_fraccionarios_en_microsoft_excel_- :.
 # Proyecto Java 21 + IntelliJ IDEA + Apache POI:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/0245e552-8b1d-4697-9d45-badbea0b0366" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/0245e552-8b1d-4697-9d45-badbea0b0366" />         
+
+<img width="2559" height="1032" alt="image" src="https://github.com/user-attachments/assets/76e331a6-deb6-4ef1-a543-717ac828077c" />         
 
 ```
 # Gráfico de Números Fraccionarios en Microsoft Excel (.xlsx)
